@@ -1,0 +1,10 @@
+# Assets brutos originais (não vão para o repositório)
+*.png
+DEPOIMENTOS/
+WhatsApp Image*
+WhatsApp Video*
+"WhatsApp*"
+
+# Sistema
+.DS_Store
+Thumbs.db
